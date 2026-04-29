@@ -20,7 +20,7 @@ I'm a Computer Science student at the Federal University of Technology, Akure (F
 | Category | Tools |
 |---|---|
 | Visualisation & BI | Power BI · Tableau · Excel |
-| Query & Transform | SQL · Python · pandas |
+| Query & Transform | SQL · Python · pandas . Matplotlib . Seaborn|
 | Cloud & Storage | AWS S3 · Cloud Deployment |
 | Systems & Dev | Java · C · Web Technologies |
 | Networking | Aviatrix Multicloud |
