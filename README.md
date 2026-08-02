@@ -1,7 +1,7 @@
 
 # Hi, I'm Benita Adakeja 👋
 
-**Data Analysis · Cloud Infrastructure · Community Building**
+**Data Analysis · DevOps · Cloud Engineering · CS Student ·  Community Building**
 
 [![AWS Cloud Club FUTA — Programs Lead](https://img.shields.io/badge/AWS%20Cloud%20Club%20FUTA-Programs%20Lead-orange?style=flat-square)](https://aws.amazon.com)
 [![CS @ FUTA](https://img.shields.io/badge/CS%20%40%20FUTA-Class%20of%202027-blue?style=flat-square)]()
@@ -46,7 +46,7 @@ I'm a Computer Science student at the Federal University of Technology, Akure (F
 
 ## Currently interested in
 
-`Data Analysis`. `Data Engineering pipelines` · `Cloud data infrastructure` · `Fintech & financial inclusion` · `Women in tech advocacy` · `Open source contribution`
+`Data Analysis`. `Data Engineering pipelines` · `Cloud data infrastructure` · `Fintech & financial inclusion` · `Women in tech advocacy` · `Open source contribution` · `DevOps` · `Cloud engineering`
 
 ---
 
