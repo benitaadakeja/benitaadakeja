@@ -31,7 +31,7 @@ I'm a Computer Science student at the Federal University of Technology, Akure (F
 
 - ✅ Aviatrix Multicloud Network Associate (AMCNA)
 - ✅ Project Management Certification
-- 🔄 AWS Cloud Practitioner — *in progress*
+- ✅ AWS Certified Cloud Practitioner
 - 🔄 AWS Data Analytics Specialty — *in progress*
 
 ---
