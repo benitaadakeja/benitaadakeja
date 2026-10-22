@@ -1,56 +1,74 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=220&section=header&text=Benita%20Adakeja&fontSize=56&fontColor=ffffff&animation=fadeIn&subtext=Cloud%20Engineering%20%E2%80%A2%20DevOps%20%E2%80%A2%20Data%20Analytics&subtextFontSize=18&subtextActive=true" width="100%" alt="Header Banner" />
+</p>
 
 # Hi, I'm Benita Adakeja 👋
 
-**Data Analysis · DevOps · Cloud Engineering · CS Student ·  Community Building**
+**Cloud Engineering · DevOps · Data Analysis · CS @ FUTA**
 
-[![AWS Cloud Club FUTA — Programs Lead](https://img.shields.io/badge/AWS%20Cloud%20Club%20FUTA-Programs%20Lead-orange?style=flat-square)](https://aws.amazon.com)
+[![AWS Student Builder Group FUTA](https://img.shields.io/badge/AWS%20Student%20Builder%20Group-Programs%20Lead-orange?style=flat-square&logo=amazonaws)](https://aws.amazon.com)
 [![CS @ FUTA](https://img.shields.io/badge/CS%20%40%20FUTA-Class%20of%202027-blue?style=flat-square)]()
-[![Location](https://img.shields.io/badge/📍-Ado--Ekiti%2C%20Nigeria-green?style=flat-square)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/BenitaAdakeja)
 
 ---
 
-## About me
+## 🚀 About Me
 
-I'm a Computer Science student at the Federal University of Technology, Akure (FUTA), passionate about turning raw data into meaningful decisions and building cloud-powered solutions at scale. When I'm not studying research papers, I'm mentoring communities, earning certifications, or reading up on data infrastructure trends.
+I'm a Computer Science undergraduate at the **Federal University of Technology, Akure (FUTA)** operating at the intersection of **Cloud Infrastructure, DevOps Automation, and Data Analytics**. 
+
+I specialize in containerizing applications, building CI/CD pipelines, and transforming raw datasets into clear, actionable insights.
+
+- ☁️ **Cloud & DevOps:** Designing automated deployment workflows using Docker, GitHub Actions, Linux Shell, and AWS infrastructure.
+- 📊 **Data Analytics:** Performing exploratory data analysis, data cleansing, and building interactive visual dashboards using Python (`pandas`, `matplotlib`, `seaborn`), SQL, Power BI, and Excel.
+- 👥 **Tech Leadership:** Programs Lead at **AWS Student Builder Group FUTA**, hosting technical workshops, mentoring peers, and driving cloud technology adoption on campus.
+- 🎯 **Current Focus:** Deepening expertise in multi-service container orchestration, Linux system administration, and cloud-native data pipelines.
 
 ---
 
-## Data & Analytics Stack
+## 📊 GitHub Stats
 
-| Category | Tools |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benitaadakeja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Benita's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benitaadakeja&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🛠️ Technical Stack
+
+| Category | Technologies & Tools |
 |---|---|
-| Visualisation & BI | Power BI · Tableau · Excel |
-| Query & Transform | SQL · Python · pandas . Matplotlib . Seaborn|
-| Cloud & Storage | AWS S3 · Cloud Deployment |
-| Systems & Dev | Java · C · Web Technologies |
-| Networking | Aviatrix Multicloud |
+| **Cloud & DevOps** | AWS (S3, EC2), Docker, Docker Compose, Linux CLI, Bash, GitHub Actions |
+| **Data & Analytics** | Python (Pandas, Matplotlib, Seaborn), SQL, Power BI, Tableau, Excel |
+| **Core CS & Tooling** | Python, Shell / Bash, Git, GitHub |
 
 ---
 
-## Certifications
+## 🏆 Certifications
 
-- ✅ Aviatrix Multicloud Network Associate (AMCNA)
-- ✅ Project Management Certification
-- ✅ AWS Certified Cloud Practitioner
-- 🔄 AWS Data Analytics Specialty — *in progress*
-
----
-
-## Roles & Community
-
-> **Programs Lead · AWS Cloud Club FUTA**
->
-> 6+ volunteer & ambassador roles spanning digital literacy, women's empowerment, financial inclusion, and fintech.
+- ✅ **AWS Certified Cloud Practitioner** — *Amazon Web Services*
+- ✅ **Certified Data Analyst** — *Awake to Power Communications*
+- ✅ **Aviatrix Multicloud Network Associate (AMCNA)** — *Aviatrix*
+- ✅ **Project Management Certification** — *Institute of Management and Technology*
 
 ---
 
-## Currently interested in
+## 📌 Featured Projects
 
-`Data Analysis`. `Data Engineering pipelines` · `Cloud data infrastructure` · `Fintech & financial inclusion` · `Women in tech advocacy` · `Open source contribution` · `DevOps` · `Cloud engineering`
+| Project | Category | Description | Tech Stack |
+|---|---|---|---|
+| **[docker-cicd-app](https://github.com/benitaadakeja/docker-cicd-app)** | DevOps / Cloud | Containerized Flask application with automated GitHub Actions CI/CD, publishing to GHCR and deploying to AWS EC2. | `Docker` `GitHub Actions` `AWS EC2` `Python` |
+| **[docker-compose-app](https://github.com/benitaadakeja/docker-compose-app)** | Cloud Architecture | 3-tier containerized web application using Nginx, Flask, and MySQL with persistent storage and custom networking. | `Docker Compose` `Flask` `MySQL` `Nginx` |
+| **[linux-user-manager](https://github.com/benitaadakeja/linux-user-manager)** | Systems / Automation | Bash-based CLI tool that automates Linux user provisioning, security account locking/unlocking, and system logging. | `Bash` `Linux CLI` `Ubuntu` |
+| **[data-analytics-portfolio](https://github.com/benitaadakeja)** | Data Analytics | Exploratory data analysis, statistical modeling, and interactive Power BI & Excel dashboards for decision-making. | `Power BI` `Python` `Pandas` `SQL` `Excel` |
 
 ---
 
-📬 Let's connect: [LinkedIn](BenitaAdakeja) · [Twitter](BeniiMussolini) · benitaadakeja07@gmail.com
+## 📬 Connect With Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/BenitaAdakeja](https://linkedin.com/in/BenitaAdakeja)
+- 🐦 **X (Twitter):** [@BeniiMussolini](https://x.com/BeniiMussolini)
+- ✉️ **Email:** [benitaadakeja07@gmail.com](mailto:benitaadakeja07@gmail.com)
 <!--
 **benitaadakeja/benitaadakeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
